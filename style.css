@@ -57,7 +57,7 @@ color: white;
 }
 
 #skills h1 {
-font-size: 4em;
+font-size: 2em;
 font-weight: 100;
 line-height: 1em;
 margin-bottom: 10px;
@@ -101,7 +101,7 @@ color: red;
 }
 
 #experience h1 {
-font-size: 4em;
+font-size: 2em;
 font-weight: 100;
 line-height: 1em;
 margin-bottom: 10px;
@@ -141,7 +141,7 @@ padding-left: 20px;
 }
 
 .name-plate h1 {
-font-size: 4em;
+font-size: 2em;
 font-weight: 200;
 line-height: 1em;
 padding: -5px;
@@ -151,7 +151,7 @@ padding: -5px;
 #education h1,
 #experience h1,
 #contact h1 {
-font-size: 3em;
+font-size: 2em;
 font-weight: 100;
 line-height: 1em;
 margin-bottom: 10px;
