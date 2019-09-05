@@ -224,7 +224,7 @@ position: relative;
 }
 
 #contact-form h3 {
-color: yellow;
+color: black;
 display: block;
 font-size: 30px;
 font-weight: 400;
@@ -274,14 +274,14 @@ padding-top: 20px;
 border-top: none;
 border-left: none;
 border-right: none;
-background-color: yellow;
+background-color: black;
 }
 #close-btn{
 position: absolute;
 top: 0px;
 right: 10px;
 font-size: 26px;
-color: red;
+color: white;
 padding: 5px;
 font-weight: 600;
 transition: font-size .2s linear;
